@@ -1,0 +1,3 @@
+-- Program started --
+Current Angle:  10
+-- Program exited --

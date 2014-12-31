@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="HosHexagon">qml/HosHexagon.qml</file>
+        <file alias="Hos">qml/Hos.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="arrowBlack">qml/arrowBlack.png</file>
+        <file alias="hexagon">qml/hexagon.png</file>
+        <file alias="hexagonWhite">qml/hexagonWhite.png</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file alias="HosInner">qml/HosInner.qml</file>
+        <file alias="HosHexagon">qml/HosHexagon.qml</file>
+    </qresource>
+</RCC>
